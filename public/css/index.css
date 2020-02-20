@@ -1,0 +1,28 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.content {
+    width: 65%;
+    margin-left:50%;
+    transform: translate(-50%,0);
+}
+
+.title {
+    text-align: center;
+}
+
+.button__style {
+    text-align: center;
+}
